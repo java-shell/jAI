@@ -23,7 +23,7 @@ Tested on qwen3 and gemma3
 
   });
   LLMRequestManager.startRequestProcessor();
-	LLMRequestManager.addRequestToQueue(request);
+  LLMRequestManager.addRequestToQueue(request);
 ```
 
 This creates a ChatToolRequest with the specified ChatTools, and updates the Chat history to include a first prompt.</br>
