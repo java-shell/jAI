@@ -1,0 +1,5 @@
+{
+  "model": $MODEL,
+  "prompt": $PROMPT, 
+  "stream": $STREAMING
+}

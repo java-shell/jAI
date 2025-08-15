@@ -1,0 +1,7 @@
+{
+  "model": $MODEL, 
+  "messages": [
+    $MESSAGES
+  ],
+  "stream": $STREAMING
+}
